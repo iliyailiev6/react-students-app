@@ -1,0 +1,17 @@
+{
+  "name": "students",
+  "version": "1.0.0",
+  "description": "Application to provide closed system to handle school problems and needs",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
